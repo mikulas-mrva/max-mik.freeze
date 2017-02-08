@@ -1,7 +1,7 @@
-### max-mik.freeze
+# max-mik.freeze
 
-## Pfft-based live-oriented freeze and time stretcher
-# Features:
+Pfft-based live-oriented freeze and time stretcher
+## Features:
 * Pre FX – basic spectral effects
  * Gate Hi/Gate Lo – spetral gate and (de)noiser, filters out bins with signal intensity outside of the defined band.
  * Bin LPF/Bin HPF – spectral band pass filter – silences bins by bin their number
@@ -32,6 +32,6 @@
  * Retrigger all knobs – the magic button used to fix unexpected behaviour, occurring mostly after changing FFT settings.
 * Wet/Dry gain & Master volume
 
-# Known bugs
+## Known bugs
 * Sometimes, controls need to be retriggered after changing FFT settings, no sound comes out otherwise.
 * The time stretching part tends to need a few triggers before it starts working properly when used for the first time or after FFT settings have been changed.
