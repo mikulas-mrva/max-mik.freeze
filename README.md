@@ -1,6 +1,10 @@
 # max-mik.freeze
 
 Pfft-based live-oriented freeze and time stretcher
+
+![alt text](mik.freeze-interface.png "Interface picture")
+
+
 ## Features:
 * Pre FX – basic spectral effects
  * Gate Hi/Gate Lo – spetral gate and (de)noiser, filters out bins with signal intensity outside of the defined band.
